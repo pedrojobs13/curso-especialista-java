@@ -1,5 +1,3 @@
-Peço desculpas pela resposta anterior. Aqui está uma descrição sobre interfaces em Java, adequada para o arquivo README.md:
-
 # Interfaces em Java
 
 Em Java, uma interface é um recurso poderoso que permite definir um contrato que as classes devem seguir. Elas são usadas para declarar métodos que devem ser implementados pelas classes que a utilizam, estabelecendo um padrão de comportamento.
